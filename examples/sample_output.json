@@ -1,0 +1,460 @@
+[
+  {
+    "match_id": "0Y2QnLpK",
+    "match_url": "https://www.flashscore.com/match/0Y2QnLpK/",
+    "start_time_utc": "2026-11-22T20:40:00+00:00",
+    "status": "finished",
+    "tour": "wta",
+    "tournament_name": "WTA - SINGLES: Billie Jean King Cup - World Group (World) - Relegation - Play Offs",
+    "tournament_url": "https://www.flashscore.com/tennis/wta-singles/billie-jean-king-cup-world-group/",
+    "surface": null,
+    "match_type": "singles",
+    "round": null,
+    "note": "Change of nomination.",
+    "home_player": {
+      "name": "Gauff C.",
+      "player_id": "KlOcZENF",
+      "slug": "gauff-coco",
+      "nationality": "USA",
+      "ranking": 200,
+      "photo_url": "https://static.flashscore.com/res/image/data/2PLrxuB6-j3eqe4HM.png"
+    },
+    "away_player": {
+      "name": "Bondar A.",
+      "player_id": "SER5XhhS",
+      "slug": "bondar-anna",
+      "nationality": "Hungary",
+      "ranking": 91,
+      "photo_url": "https://static.flashscore.com/res/image/data/IqlQhS76-WjflaTd8.png"
+    },
+    "sets_won_home": 0,
+    "sets_won_away": 0,
+    "sets": [],
+    "winner": null,
+    "result_type": "normal",
+    "total_duration": null,
+    "has_odds": false,
+    "stats": null,
+    "scraped_at": "2026-11-23T11:04:55.407281+00:00"
+  },
+  {
+    "match_id": "ED4yCVJO",
+    "match_url": "https://www.flashscore.com/match/ED4yCVJO/",
+    "start_time_utc": "2026-11-22T20:45:00+00:00",
+    "status": "finished",
+    "tour": "wta",
+    "tournament_name": "WTA - SINGLES: Billie Jean King Cup - World Group (World) - Relegation - Play Offs",
+    "tournament_url": "https://www.flashscore.com/tennis/wta-singles/billie-jean-king-cup-world-group/",
+    "surface": null,
+    "match_type": "singles",
+    "round": null,
+    "note": null,
+    "home_player": {
+      "name": "Krueger A.",
+      "player_id": "jP0X7eBG",
+      "slug": "krueger-ashlyn",
+      "nationality": "USA",
+      "ranking": 200,
+      "photo_url": "https://static.flashscore.com/res/image/data/tQDMPh8k-f7v3Inzp.png"
+    },
+    "away_player": {
+      "name": "Nagy A.",
+      "player_id": "Oxau6ZuT",
+      "slug": "nagy-adrienn",
+      "nationality": "Hungary",
+      "ranking": 91,
+      "photo_url": "https://static.flashscore.com/res/image/data/hn6j94Qq-zyqr0PYl.png"
+    },
+    "sets_won_home": 2,
+    "sets_won_away": 0,
+    "sets": [
+      {
+        "set": 1,
+        "home_games": 6,
+        "away_games": 2,
+        "duration": "0:30",
+        "winner": "home"
+      },
+      {
+        "set": 2,
+        "home_games": 6,
+        "away_games": 1,
+        "duration": "0:29",
+        "winner": "home"
+      }
+    ],
+    "winner": "home",
+    "result_type": "normal",
+    "total_duration": "0:59",
+    "has_odds": false,
+    "stats": {
+      "match": {
+        "service": {
+          "aces": {
+            "home": "7",
+            "away": "3",
+            "home_num": 7,
+            "away_num": 3
+          },
+          "double_faults": {
+            "home": "0",
+            "away": "7",
+            "home_num": 0,
+            "away_num": 7
+          },
+          "first_serve_percentage": {
+            "home": "65%",
+            "away": "60%",
+            "home_num": 65,
+            "away_num": 60
+          },
+          "first_serve_points_won": {
+            "home": "73% (24/33)",
+            "away": "50% (14/28)",
+            "home_num": 73,
+            "away_num": 50
+          },
+          "second_serve_points_won": {
+            "home": "50% (9/18)",
+            "away": "47% (9/19)",
+            "home_num": 50,
+            "away_num": 47
+          },
+          "break_points_saved": {
+            "home": "3/4",
+            "away": "4/9",
+            "home_num": 3,
+            "away_num": 4
+          }
+        },
+        "return": {
+          "first_return_points_won": {
+            "home": "50% (14/28)",
+            "away": "27% (9/33)",
+            "home_num": 50,
+            "away_num": 27
+          },
+          "second_return_points_won": {
+            "home": "53% (10/19)",
+            "away": "50% (9/18)",
+            "home_num": 53,
+            "away_num": 50
+          },
+          "break_points_converted": {
+            "home": "5/9",
+            "away": "1/4",
+            "home_num": 5,
+            "away_num": 1
+          }
+        },
+        "points": {
+          "service_points_won": {
+            "home": "65% (33/51)",
+            "away": "43% (23/54)",
+            "home_num": 65,
+            "away_num": 43
+          },
+          "return_points_won": {
+            "home": "57% (31/54)",
+            "away": "35% (18/51)",
+            "home_num": 57,
+            "away_num": 35
+          },
+          "total_points_won": {
+            "home": "61% (64/105)",
+            "away": "39% (41/105)",
+            "home_num": 61,
+            "away_num": 39
+          },
+          "last_10_balls": {
+            "home": "7",
+            "away": "3",
+            "home_num": 7,
+            "away_num": 3
+          },
+          "match_points_saved": {
+            "home": "0",
+            "away": "1",
+            "home_num": 0,
+            "away_num": 1
+          }
+        },
+        "games": {
+          "service_games_won": {
+            "home": "88% (7/8)",
+            "away": "29% (2/7)",
+            "home_num": 88,
+            "away_num": 29
+          },
+          "return_games_won": {
+            "home": "71% (5/7)",
+            "away": "13% (1/8)",
+            "home_num": 71,
+            "away_num": 13
+          },
+          "total_games_won": {
+            "home": "80% (12/15)",
+            "away": "20% (3/15)",
+            "home_num": 80,
+            "away_num": 20
+          }
+        }
+      },
+      "sets": [
+        {
+          "set": 1,
+          "service": {
+            "aces": {
+              "home": "3",
+              "away": "3",
+              "home_num": 3,
+              "away_num": 3
+            },
+            "double_faults": {
+              "home": "0",
+              "away": "3",
+              "home_num": 0,
+              "away_num": 3
+            },
+            "first_serve_percentage": {
+              "home": "62%",
+              "away": "68%",
+              "home_num": 62,
+              "away_num": 68
+            },
+            "first_serve_points_won": {
+              "home": "69% (11/16)",
+              "away": "53% (10/19)",
+              "home_num": 69,
+              "away_num": 53
+            },
+            "second_serve_points_won": {
+              "home": "70% (7/10)",
+              "away": "56% (5/9)",
+              "home_num": 70,
+              "away_num": 56
+            },
+            "break_points_saved": {
+              "home": "2/2",
+              "away": "2/4",
+              "home_num": 2,
+              "away_num": 2
+            }
+          },
+          "return": {
+            "first_return_points_won": {
+              "home": "47% (9/19)",
+              "away": "31% (5/16)",
+              "home_num": 47,
+              "away_num": 31
+            },
+            "second_return_points_won": {
+              "home": "44% (4/9)",
+              "away": "30% (3/10)",
+              "home_num": 44,
+              "away_num": 30
+            },
+            "break_points_converted": {
+              "home": "2/4",
+              "away": "0/2",
+              "home_num": 2,
+              "away_num": 0
+            }
+          },
+          "points": {
+            "service_points_won": {
+              "home": "69% (18/26)",
+              "away": "48% (15/31)",
+              "home_num": 69,
+              "away_num": 48
+            },
+            "return_points_won": {
+              "home": "52% (16/31)",
+              "away": "31% (8/26)",
+              "home_num": 52,
+              "away_num": 31
+            },
+            "total_points_won": {
+              "home": "60% (34/57)",
+              "away": "40% (23/57)",
+              "home_num": 60,
+              "away_num": 40
+            },
+            "match_points_saved": {
+              "home": "0",
+              "away": "0",
+              "home_num": 0,
+              "away_num": 0
+            }
+          },
+          "games": {
+            "service_games_won": {
+              "home": "100% (4/4)",
+              "away": "50% (2/4)",
+              "home_num": 100,
+              "away_num": 50
+            },
+            "return_games_won": {
+              "home": "50% (2/4)",
+              "away": "0% (0/4)",
+              "home_num": 50,
+              "away_num": 0
+            },
+            "total_games_won": {
+              "home": "75% (6/8)",
+              "away": "25% (2/8)",
+              "home_num": 75,
+              "away_num": 25
+            }
+          }
+        },
+        {
+          "set": 2,
+          "service": {
+            "aces": {
+              "home": "4",
+              "away": "0",
+              "home_num": 4,
+              "away_num": 0
+            },
+            "double_faults": {
+              "home": "0",
+              "away": "4",
+              "home_num": 0,
+              "away_num": 4
+            },
+            "first_serve_percentage": {
+              "home": "68%",
+              "away": "47%",
+              "home_num": 68,
+              "away_num": 47
+            },
+            "first_serve_points_won": {
+              "home": "76% (13/17)",
+              "away": "44% (4/9)",
+              "home_num": 76,
+              "away_num": 44
+            },
+            "second_serve_points_won": {
+              "home": "25% (2/8)",
+              "away": "40% (4/10)",
+              "home_num": 25,
+              "away_num": 40
+            },
+            "break_points_saved": {
+              "home": "1/2",
+              "away": "2/5",
+              "home_num": 1,
+              "away_num": 2
+            }
+          },
+          "return": {
+            "first_return_points_won": {
+              "home": "56% (5/9)",
+              "away": "24% (4/17)",
+              "home_num": 56,
+              "away_num": 24
+            },
+            "second_return_points_won": {
+              "home": "60% (6/10)",
+              "away": "75% (6/8)",
+              "home_num": 60,
+              "away_num": 75
+            },
+            "break_points_converted": {
+              "home": "3/5",
+              "away": "1/2",
+              "home_num": 3,
+              "away_num": 1
+            }
+          },
+          "points": {
+            "service_points_won": {
+              "home": "60% (15/25)",
+              "away": "35% (8/23)",
+              "home_num": 60,
+              "away_num": 35
+            },
+            "return_points_won": {
+              "home": "65% (15/23)",
+              "away": "40% (10/25)",
+              "home_num": 65,
+              "away_num": 40
+            },
+            "total_points_won": {
+              "home": "63% (30/48)",
+              "away": "38% (18/48)",
+              "home_num": 63,
+              "away_num": 38
+            },
+            "match_points_saved": {
+              "home": "0",
+              "away": "1",
+              "home_num": 0,
+              "away_num": 1
+            }
+          },
+          "games": {
+            "service_games_won": {
+              "home": "75% (3/4)",
+              "away": "0% (0/3)",
+              "home_num": 75,
+              "away_num": 0
+            },
+            "return_games_won": {
+              "home": "100% (3/3)",
+              "away": "25% (1/4)",
+              "home_num": 100,
+              "away_num": 25
+            },
+            "total_games_won": {
+              "home": "86% (6/7)",
+              "away": "14% (1/7)",
+              "home_num": 86,
+              "away_num": 14
+            }
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-11-23T11:04:56.007899+00:00"
+  },
+  {
+    "match_id": "d4ldsa8s",
+    "match_url": "https://www.flashscore.com/match/d4ldsa8s/",
+    "start_time_utc": "2026-11-22T22:00:00+00:00",
+    "status": "finished",
+    "tour": "wta",
+    "tournament_name": "WTA - SINGLES: Billie Jean King Cup - World Group (World) - Relegation - Play Offs",
+    "tournament_url": "https://www.flashscore.com/tennis/wta-singles/billie-jean-king-cup-world-group/",
+    "surface": null,
+    "match_type": "singles",
+    "round": null,
+    "note": "Tie decided.",
+    "home_player": {
+      "name": "Li A.",
+      "player_id": "OpDySWFk",
+      "slug": "li-ann",
+      "nationality": "USA",
+      "ranking": 200,
+      "photo_url": "https://static.flashscore.com/res/image/data/6RepsQQq-f1sNjIYC.png"
+    },
+    "away_player": {
+      "name": "Galfi D.",
+      "player_id": "WAGqQAp2",
+      "slug": "galfi-dalma",
+      "nationality": "Hungary",
+      "ranking": 91,
+      "photo_url": "https://static.flashscore.com/res/image/data/OMtvMpT0-URFFXTZO.png"
+    },
+    "sets_won_home": 0,
+    "sets_won_away": 0,
+    "sets": [],
+    "winner": null,
+    "result_type": "normal",
+    "total_duration": null,
+    "has_odds": false,
+    "stats": null,
+    "scraped_at": "2026-11-23T11:04:56.507479+00:00"
+  }
+]
