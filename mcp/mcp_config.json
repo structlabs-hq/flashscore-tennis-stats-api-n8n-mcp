@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "apify-flashscore-tennis-stats-api": {
+      "url": "https://mcp.apify.com/?actors=structlabs/flashscore-tennis-stats-api"
+    }
+  }
+}
